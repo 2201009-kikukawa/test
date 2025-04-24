@@ -38,5 +38,10 @@
     "@vscode/test-electron": "^2.4.1",
     "eslint": "^9.25.1",
     "typescript": "^5.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repository",
+    "publisher": "your-publisher-name"
   }
 }
