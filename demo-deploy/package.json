@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "demo-deploy.helloWorld",
-        "title": "Hello World"
+        "command": "demo.showOSInfo",
+        "title": "showOSInfo"
       }
     ]
   },
