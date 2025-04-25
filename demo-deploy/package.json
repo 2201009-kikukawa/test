@@ -2,11 +2,11 @@
   "name": "demo-deploy",
   "displayName": "demo-deploy",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "VS-Modules",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repository"
+    "url": "https://github.com/2201009-kikukawa/r7-devtool-project"
   },
   "engines": {
     "vscode": "^1.99.0"
